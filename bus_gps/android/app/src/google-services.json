@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "631613835374",
+    "project_id": "tesisappbus",
+    "storage_bucket": "tesisappbus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631613835374:android:09cf4f3b0e7c72949cbe7f",
+        "android_client_info": {
+          "package_name": "com.example.bus_gps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUqjUsPQEQhJeJZJ_5wah3EM6ZzDjgPws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
